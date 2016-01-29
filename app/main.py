@@ -1,5 +1,6 @@
-# Imports Flask app
-from app import app
+# Imports Flask app & db
+from app import app, db
+import models
 import views
 
 if __name__ == '__main__':

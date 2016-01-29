@@ -1,2 +1,4 @@
 # Ignores virtualenv folder
 venv/
+*.pyc
+*.db
